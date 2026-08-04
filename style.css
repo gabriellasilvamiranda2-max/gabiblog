@@ -1,0 +1,12 @@
+header{
+    background-color: rgba(223, 90, 163, 0.918);
+    color: rgb(8, 100, 180);
+    text-align: center; /*centraliza*/
+    margin: 0 auto;
+    
+}
+
+main{
+    background-color: rgb(255, 166, 215);
+    color: blue;
+}
